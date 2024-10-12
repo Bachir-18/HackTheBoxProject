@@ -1,6 +1,6 @@
 # HackTheBoxProject
 
-Written as part of a Master’s program in Cybersecurity, the report offers detailed insights into the reconnaissance, vulnerability assessment, and privilege escalation techniques used to hack these machines.
+Written as part of our Master’s program in Cybersecurity, the report offers detailed insights into the reconnaissance, vulnerability assessment, and privilege escalation techniques used to hack these machines.
 
 Key highlights of the report include:
 
